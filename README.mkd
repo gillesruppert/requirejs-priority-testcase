@@ -1,0 +1,4 @@
+requirejs priority test
+=======================
+
+This is a test case for requirejs showing how having the same files being pulled in through both the `deps` and `priority` configs does not work in requirejs version 0.14.x
